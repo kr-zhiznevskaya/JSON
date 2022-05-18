@@ -1,2 +1,10 @@
-Zhiznevskaya Kristina Valer'evna, 21 years, no pets, $1m :)
+{
+"person":{
+	"name":"Kristina",
+	"surname":"Zhiznevskaya",
+	"age":21}
+	"pets":null
+	"married":false
+
+}
 
