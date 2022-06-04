@@ -1,6 +1,6 @@
 var bug report structure = {
   "ID number":123,
-  "Name":"CART - Unable to add new item to my cart",
+  "Name":"Cart - Unable to add new item to my cart",
   "Reporter":"Kristina Zhiznevskaya",
   "Summary":"When my cart contains one item, I am unable to add a second item via the add to cart button on a product page",
   "URL":"www.example.com/product/abc",
